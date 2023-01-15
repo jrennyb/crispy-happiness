@@ -1,2 +1,1 @@
-# crispy-happiness
-project
+# jrb_yoga
